@@ -16,16 +16,29 @@ with column_1:
              "point in the graphic window.")
 
     st.write("")
+    st.write("")
 
-    st.image("images/astro_pic.jpg")
-    st.write("[Source Code](https://github.com/ten87tak/Astronomy_Today)")
-
-with column_2:
-    st.image("images/OOP_App1.PNG")
     st.write("[Source Code](https://github.com/ten87tak/OOP_App1_GeoGame)")
 
     st.write("")
+    st.write("")
+    st.write("")
+
+    st.image("images/astro_pic.jpg")
+
+
+with column_2:
+    st.write("")
+    st.image("images/OOP_App1.PNG")
+
+    st.write("")
+    st.write("")
 
     st.header("Astronomy Image of the Day 🌏")
-    st.write("You can check out the astronomy picture of the day.")
-    st.write("This is created with the NASA API.")
+    st.write("You can check out the astronomy picture of the day. "
+             "This is created with the NASA API.")
+
+    st.write("")
+    st.write("")
+
+    st.write("[Source Code](https://github.com/ten87tak/Astronomy_Today)")
