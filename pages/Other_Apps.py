@@ -15,6 +15,8 @@ with column_1:
                  "point in the graphic window.")
 
     st.write("")
+    st.write("")
+    st.write("")
 
     st.image("images/astro_pic.jpg")
     st.write("[Source Code](https://github.com/ten87tak/Astronomy_Today)")
