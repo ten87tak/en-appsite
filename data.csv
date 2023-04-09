@@ -1,9 +1,9 @@
 title;description;url;image;url2;exe
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/ten87tak/my-todo-webapp;1.png;https://ten87tak-my-todo-webapp-web-5micem.streamlit.app/;True
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/ten87tak/my-portfolio-website;2.png;https://ten87tak-my-portfolio-website-home-phue3k.streamlit.app/;False
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/ten87tak/en-appsite;2.png;https://ten87tak-en-appsite-home-1793y0.streamlit.app/;False
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/ten87tak/my-PDF-generator;3.png;CLI only;False
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/ten87tak/my-excel_pdf-invoice-generator;4.png;CLI only;False
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;None;5.png;None;False
+Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/ten87tak/Email_News;5.png;None;False
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;None;6.png;None;False
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;None;7.png;None;False
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;None;8.png;None;False
