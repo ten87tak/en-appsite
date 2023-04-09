@@ -70,6 +70,7 @@ with column_4:
             st.write("Coming Soon")
         else:
             st.write(f"[Source Code]({row['url']})")
+
         if row['url2'] == "None":
             st.write("")
         elif row['url2'] == "CLI only":
