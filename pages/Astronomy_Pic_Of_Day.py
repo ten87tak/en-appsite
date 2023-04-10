@@ -2,7 +2,8 @@ import streamlit as st
 import requests
 
 
-api_key = "a5hHzb5AVOqRmaTjDiZY1bKxKsbeJewlR3ehzYDl"
+# Sign up for NASA, get your own API key, and assign it to the variable.
+api_key = "NASA_API"
 
 url = "https://api.nasa.gov/planetary/apod?" \
       f"api_key={api_key}"
@@ -20,6 +21,6 @@ with open("image.jpg", "wb") as file:
 
 
 st.title(content["title"])
-st.image("image.jpg")
+st.image("image.jpg", width=700)
 st.write(content["explanation"])
 
