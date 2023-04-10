@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-column_1, column_2 = st.columns(2)
+column_1, column_2, column_3 = st.columns([5, 1, 6])
 
 with column_1:
     st.header("GEOMETRY GAME")
@@ -17,6 +17,7 @@ with column_1:
 
     st.write("")
     st.write("")
+    st.write("")
 
     st.write("[Source Code](https://github.com/ten87tak/OOP_App1_GeoGame)")
 
@@ -27,11 +28,19 @@ with column_1:
 
     st.image("images/astro_pic.jpg")
 
+    st.write("")
+    st.write("")
+    st.write("")
+    st.write("")
 
-with column_2:
+    st.header("Astronomy Image of the Day 🌏")
+
+
+with column_3:
     st.write("")
     st.image("images/OOP_App1.PNG")
 
+    st.write("")
     st.write("")
     st.write("")
 
