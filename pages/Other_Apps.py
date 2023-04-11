@@ -33,8 +33,6 @@ with column_1:
     st.write("")
     st.write("")
 
-    st.header("Astronomy Image of the Day 🌏")
-
 
 with column_3:
     st.write("")
