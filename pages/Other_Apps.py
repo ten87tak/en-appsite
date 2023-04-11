@@ -40,7 +40,7 @@ with column_1:
     st.write("")
     st.write("")
 
-    st.write("[Source Code](https://github.com/ten87tak/Happiness_Data_App)")
+    st.write("[Source Code](https://github.com/ten87tak/New_Happiness_Data_App)")
 
     st.write("")
     st.write("")
