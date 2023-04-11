@@ -76,5 +76,5 @@ with column_4:
         elif row['url2'] == "CLI only":
             st.write("CLI only")
         else:
-            st.write(f"[App Link]({row['url2']})")
+            st.write(f"[Web App]({row['url2']})")
 
