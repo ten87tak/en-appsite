@@ -4,7 +4,7 @@ import requests
 st.set_page_config(layout="wide")
 
 # Sign up for NASA, get your own API key, and assign it to the variable.
-api_key = "NASA_API"
+api_key = "a5hHzb5AVOqRmaTjDiZY1bKxKsbeJewlR3ehzYDl"
 
 url = "https://api.nasa.gov/planetary/apod?" \
       f"api_key={api_key}"
