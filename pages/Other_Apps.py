@@ -80,6 +80,7 @@ with column_3:
     st.write("")
     st.write("")
     st.write("")
+    st.write("")
 
     st.image("images/happiness_app.PNG")
 
