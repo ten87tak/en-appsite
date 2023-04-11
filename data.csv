@@ -14,7 +14,7 @@ Typing Analyzer;A program that monitors the computer keyboard and returns the mo
 Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;None;13.png;None;False
 Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;None;14.png;None;False
 Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;None;15.png;None;False
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;None;16.png;None;False
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/ten87tak/Weather_Forecast;16.png;https://ten87tak-weather-forecast-frontend-v1ctnf.streamlit.app/;False
 Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;None;17.png;None;False
 School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;None;18.png;None;False
 Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;None;19.png;None;False
