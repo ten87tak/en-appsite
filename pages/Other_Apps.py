@@ -41,6 +41,7 @@ with column_3:
     st.write("")
     st.write("")
     st.write("")
+    st.write("")
 
     st.header("Astronomy Image of the Day 🌏")
     st.write("You can check out the astronomy picture of the day. "
