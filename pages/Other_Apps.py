@@ -42,6 +42,11 @@ with column_1:
 
     st.write("[Source Code](https://github.com/ten87tak/Happiness_Data_App)")
 
+    st.write("")
+    st.write("")
+
+    st.write("[Web App](https://ten87tak-new-happiness-data-app-main-7i0xd2.streamlit.app/)")
+
 
 with column_3:
     st.write("")
