@@ -33,6 +33,15 @@ with column_1:
     st.write("")
     st.write("")
 
+    st.header("Happiness Data App")
+    st.write("The app shows the relativity between GDP, happiness, and "
+             "generosity:)")
+
+    st.write("")
+    st.write("")
+
+    st.write("[Source Code](https://github.com/ten87tak/Happiness_Data_App)")
+
 
 with column_3:
     st.write("")
@@ -52,3 +61,12 @@ with column_3:
     st.write("")
 
     st.write("[Source Code](https://github.com/ten87tak/Astronomy_Today)")
+
+    st.write("")
+    st.write("")
+    st.write("")
+    st.write("")
+
+    st.image("images/happiness_app.PNG")
+
+
