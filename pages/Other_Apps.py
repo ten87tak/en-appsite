@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-column_1, column_2, column_3 = st.columns([5, 0.5, 5])
+column_1, column_2, column_3 = st.columns([5, 0.8, 5])
 
 with column_1:
     st.title("GEOMETRY GAME")
