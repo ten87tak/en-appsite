@@ -9,7 +9,7 @@ Download Cleaner;A script that monitors the Downloads folder and deletes old fil
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;None;8.png;None;False
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;None;9.png;None;False
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;None;10.png;None;False
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;None;11.png;None;False
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/ten87tak/Webcam_Motion_Detector;11.png;CLI only;False
 Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;None;12.png;None;False
 Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;None;13.png;None;False
 Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;None;14.png;None;False
